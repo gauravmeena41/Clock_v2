@@ -17,7 +17,7 @@ moonBtn.addEventListener("click", () => {
 });
 
 sunBtn.addEventListener("click", () => {
-  body.style.backgroundColor = "#d7b4ff";
+  body.style.backgroundColor = "#fff";
   clockContainer.classList.remove("dark-mode");
   dateContainer.classList.remove("dark-mode");
   sunBtn.style.display = "none";
